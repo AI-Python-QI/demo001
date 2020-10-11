@@ -6,6 +6,7 @@ public class sql {
 		// TODO Auto-generated method stub
 		System.out.println("ahha");
 		System.out.println("555");
+		System.err.println("");
 	}
 
 }
